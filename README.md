@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PlayTube-Twitter and Hospital Management System<br>🌱 I’m currently learning Full-Stack Web Development<br>💬 Ask me about JavaScript, React, NodeJS, Express, MongoDB, NextJS,<br>⚡ Fun fact I'm humorous
+🔭 I’m currently working on ClubConnectX<br>🌱 I’m currently learning Full-Stack Web Development<br>💬 Ask me about JavaScript, React, NodeJS, Express, MongoDB, NextJS,<br>⚡ Fun fact I'm humorous
 
 
 ## 🌐 Socials:
