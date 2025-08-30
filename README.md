@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ClubConnectX<br>🌱 I’m currently learning Full-Stack Web Development<br>💬 Ask me about JavaScript, React, NodeJS, Express, MongoDB, NextJS,<br>⚡ Fun fact I'm humorous
+🔭 I’m currently working on AI-Powered Code Reviewer<br>🌱 I’m currently learning Full-Stack Web Development<br>💬 Ask me about JavaScript, React, NodeJS, Express, MongoDB, NextJS,<br>⚡ Fun fact I'm humorous
 
 
 ## 🌐 Socials:
